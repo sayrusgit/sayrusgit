@@ -12,5 +12,3 @@ A few insights about me:
 What I use:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,bun,nest,next,tailwind)]()
-
-[![My Skills](https://skillicons.dev/icons?i=arch,neovim,webstorm)]()
