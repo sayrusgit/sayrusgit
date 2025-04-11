@@ -8,3 +8,9 @@ A few insights about me:
 - ✏️ Editor: [Zed](https://github.com/zed-industries/zed)
 - 💻 OS: Arch Linux
 - ✉️ How to reach me: sayruslt@gmail.com
+
+What I use:
+
+[![My Skills](https://skillicons.dev/icons?i=ts,bun,nest,next,tailwind)]()
+
+[![My Skills](https://skillicons.dev/icons?i=arch,neovim,webstorm)]()
